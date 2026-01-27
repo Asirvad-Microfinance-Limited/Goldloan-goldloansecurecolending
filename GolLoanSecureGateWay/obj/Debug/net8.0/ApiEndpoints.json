@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "GoldLoanSecureGateWay.Controllers.SecureController",
+    "Method": "GetSecureData",
+    "RelativePath": "api/Secure/GetSecureData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GoldLoanSecureGateWay.Model.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoldLoanSecureGateWay.Controllers.SecureController",
+    "Method": "PostSecureData",
+    "RelativePath": "api/Secure/PostSecureData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GoldLoanSecureGateWay.Model.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GoldLoanSecureGateWay.Controllers.SecureController",
+    "Method": "PutSecureData",
+    "RelativePath": "api/Secure/PutSecureData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GoldLoanSecureGateWay.Model.RequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

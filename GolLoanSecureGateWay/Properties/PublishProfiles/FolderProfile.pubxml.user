@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <History>False|2025-12-02T05:35:16.8934032Z||;False|2025-12-02T11:04:49.1194397+05:30||;True|2025-07-26T14:22:49.3399888+05:30||;True|2025-07-24T08:00:28.9467830+05:30||;True|2025-07-22T08:59:37.7093922+05:30||;True|2025-07-18T10:11:16.8918549+05:30||;True|2025-07-17T11:39:06.9754927+05:30||;True|2025-07-17T10:17:44.6658681+05:30||;True|2025-07-16T15:13:45.6793502+05:30||;True|2025-07-16T09:08:34.6148605+05:30||;True|2025-07-14T09:51:06.3255844+05:30||;True|2025-07-11T16:16:11.9409343+05:30||;True|2025-07-11T16:15:35.8901248+05:30||;True|2025-07-11T14:27:49.3424990+05:30||;True|2025-07-11T14:20:55.8302233+05:30||;False|2025-07-11T14:17:08.2988312+05:30||;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>C:\Users\100939\Desktop\PublishAsivardWebApp\goldloanSecureApi</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

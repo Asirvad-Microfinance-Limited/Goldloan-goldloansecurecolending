@@ -1,0 +1,13 @@
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\GoldLoanSecureGateWay.exe
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\GoldLoanSecureGateWay.dll
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\GoldLoanSecureGateWay.deps.json
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\GoldLoanSecureGateWay.runtimeconfig.json
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\GoldLoanSecureGateWay.pdb
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\AspNetCoreRateLimit.dll
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

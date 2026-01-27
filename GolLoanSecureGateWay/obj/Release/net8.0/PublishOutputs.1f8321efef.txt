@@ -1,0 +1,11 @@
+C:\Users\100939\source\repos\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\GoldLoanSecureGateWay.exe
+C:\Users\100939\source\repos\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\100939\source\repos\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\100939\source\repos\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\GoldLoanSecureGateWay.dll
+C:\Users\100939\source\repos\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\GoldLoanSecureGateWay.deps.json
+C:\Users\100939\source\repos\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\GoldLoanSecureGateWay.runtimeconfig.json
+C:\Users\100939\source\repos\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\GoldLoanSecureGateWay.pdb
+C:\Users\100939\source\repos\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\100939\source\repos\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\100939\source\repos\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\100939\source\repos\GolLoanSecureGateWay\GolLoanSecureGateWay\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

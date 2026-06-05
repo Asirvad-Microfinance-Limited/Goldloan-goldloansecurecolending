@@ -121,7 +121,7 @@ namespace GoldLoanSecureGateWay.Controllers
                         sftp.CreateDirectory(index);
                 }
                 remoteFilePath1 = newDirectory.TrimEnd('/') + "/" + path2 + DetectFileType(fileBytes1);
-                using (var ms1 = new MemoryStream(fileBytes))
+                using (var ms1 = new MemoryStream(fileBytes1))
                 {
                     ms1.Position = 0;
                     sftp.UploadFile(ms1, remoteFilePath1, true);
